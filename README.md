@@ -6,9 +6,9 @@ When planning a business centered on outdoor recreation, it is critical to consi
 
 ## Results
 June and December in Oahu appear to have similar temperatures, but there are important variations to consider:
-- First
-- Second
-- Third
+- There are more datapoints to support June weather: 1700 vs 1517 in December.
+- December's temperatures have dropped as low as 56 degrees, and June's coolest day was at 64 degrees.
+- The variation in the temperatures is greater in December (std = 3.75) than in June (std = 3.26)
 
 ### June
 ![June Temps](https://github.com/emilymcdaniel/surfs_up/blob/main/Resources/June%20Temp%20Stats.PNG?raw=true)
@@ -17,9 +17,7 @@ June and December in Oahu appear to have similar temperatures, but there are imp
 ![December Temps](https://github.com/emilymcdaniel/surfs_up/blob/main/Resources/December%20Temp%20Stats.PNG?raw=true)
 
 ## Summary
-Provide a high-level summary of the results 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-
+Ultimately, June and December appear to have temperatures conducive to surfing and consuming ice cream. Both have highs in the 80s and lows in the 50s-60s, and average temp in the 70s. There is a 3-degree drop in temperature in December, as compared to June, on average. However, the lowest drop in December - to the mid-50s - may deter some traffic. 
 
 ### Alternate Considerations
  - Were June and December the most extreme temperature variations in Oahu? Consider pulling a query to confirm the 20 highest and lowest temperatures occur in June and December. If another month shows more extreme temperatures, use that month in this analysis instead.
